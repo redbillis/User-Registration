@@ -24,3 +24,6 @@ Build a Python program that simulates a registry of registered users. This regis
 κλάσης "Διεύθυνση" (με ιδιότητες "οδός", "πόλη", χώρα", κλπ).</p>
 <p>Προφανώς είστε ελεύθεροι να προσθέσετε οποιαδήποτε άλλη διαδικασία / λεπτομέρεια στην προσομοίωση της
 άσκησης αυτής.</p>
+</br>
+</br>
+Replit link: https://replit.com/@redbillis/User-Registration#main.py
