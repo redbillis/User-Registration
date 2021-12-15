@@ -3,12 +3,12 @@
 <h2>English Format</h2>
 <h4>Exercise:</h4>
 <p>This exercise is an exercise in the use of "dictionaries" as well as in the concept of multiple inheritance. </br>
-Build a Python program that simulates a registry of registered users. This registry provides, for each registered user, information about the user's name / address / phone / email / (other information that may be useful to that system). Simulate your registry so that at all times the information to be provided to you is given only by the name of the specific user. You will also need to do things like "register a new user" or "delete".</p> </br>
+Build a Python program that simulates a registry of registered users. This registry provides, for each registered user, information about the user's name / address / phone / email / (other information that may be useful to that system). Simulate your registry so that at all times the information to be provided to you is given only by the name of the specific user. You will also need to do things like "register a new user" or "delete".</p>
 <p>Tip: The registry can be simulated as a class that will define a dictionary of objects (for example another "User Details" class), each of which contains the necessary information for a specific user. The "User Details" class could be from the other two classes, the "Person" class (code "name", "email", "phone", etc.) and the "Address" class (based on "street"). "city", "country", etc.)</p> 
 <p>You are obviously free to add another procedure / detail to the simulation of this exercise.</p>
 
 <h2>Greek Format:</h2>
-<h4>Άσκηση:</h4> </br>
+<h4>Άσκηση:</h4>
 <p>Η άσκηση αυτή αποτελεί εξάσκηση στη χρήση "λεξικών" καθώς και στην έννοια της πολλαπλής
 κληρονομικότητας. </br>
 Κατασκευάστε ένα πρόγραμμα Python το οποίο θα προσομοιώνει ένα μητρώο εγγεγραμμένων χρηστών. Το
@@ -16,7 +16,7 @@ Build a Python program that simulates a registry of registered users. This regis
 /(άλλες πληροφορίες που ίσως είναι χρήσιμες για το συγκεκριμένο σύστημα) του χρήστη.
 Προσομοιώστε το μητρώο σας έτσι ώστε ανά πάσα στιγμή η πληροφορία θα πρέπει να σας παρέχεται δίνοντας
 μόνο το όνομα του συγκεκριμένου χρήστη. Επίσης θα μπορείτε να εκτελέσετε ενέργειες όπως για παράδειγμα
-"καταχώρησης νέου χρήστη" ή και "διαγραφή χρήστη".</p> </br>
+"καταχώρησης νέου χρήστη" ή και "διαγραφή χρήστη".</p>
 <p>Υπόδειξη: To μητρώο μπορεί να προσομοιωθεί ως μια κλάση η οποία θα ορίζει ένα λεξικό αντικειμένων (για
 παράδειγμα αντικείμενα μιας άλλης κλάσης "Στοιχεία Χρήστη"), το κάθε ένα από τα οποία θα περιέχει τις
 απαραίτητες πληροφορίες για έναν συγκεκριμένο χρήστη. Η κλάση "Στοιχεία Χρήστη" θα μπορούσε να είναι
